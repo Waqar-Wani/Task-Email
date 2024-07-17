@@ -1,0 +1,1 @@
+"C:\Users\Welcome\Desktop\vasista\python.exe" "C:\Users\Welcome\Desktop\vasista\Task Alert.py"
